@@ -1,0 +1,39 @@
+html{
+    font-size: 20px;
+    background-color: lemonchiffon;
+}
+h1{
+    text-align: center;
+    color:khaki;
+    font-size:100px;
+}
+
+img {
+    display: block;
+margin-left: auto;
+margin-right:auto;
+border: 5px solid white;
+}
+
+p {
+    color:chocolate;
+    text-align: center;
+}
+
+h2{
+    color:khaki;
+    padding: 10px 30px;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    margin: auto;
+    padding: 0px 50px 60px 50px;
+    color: chocolate;
+}
+li{
+    text-align: center;
+}
+h3{
+    color: chocolate;
+}
